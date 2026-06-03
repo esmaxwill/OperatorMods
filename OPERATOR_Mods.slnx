@@ -2,6 +2,7 @@
   <Project Path="OPERATOR.Binoculars/OPERATOR.Binoculars.csproj" />
   <Project Path="OPERATOR.Common/OPERATOR.Common.csproj" />
   <Project Path="OPERATOR.Debug/OPERATOR.Debug.csproj" />
+  <Project Path="OPERATOR.FunctionalWeaponMods/OPERATOR.FunctionalWeaponMods.csproj" />
   <Project Path="OPERATOR.MagCheck/OPERATOR.MagCheck.csproj" />
   <Project Path="OPERATOR.PlayerLoadouts/OPERATOR.PlayerLoadouts.csproj" />
   <Project Path="OPERATOR.Rangefinder/OPERATOR.Rangefinder.csproj" />

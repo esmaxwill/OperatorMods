@@ -13,6 +13,7 @@ PROJECTS=(
     "OPERATOR.Binoculars"
     "OPERATOR.Common"
     "OPERATOR.Debug"
+    "OPERATOR.FunctionalWeaponMods"
     "OPERATOR.MagCheck"
     "OPERATOR.PlayerLoadouts"
     "OPERATOR.UsableVlite"
